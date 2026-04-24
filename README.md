@@ -1,6 +1,6 @@
 # Wearable-Tremor-Tracker
 
-Concept development and CAD design for a wearable device to monitor tremor and motion patterns. 
+This project explores the concept and design of a wearable device for monitoring tremor and motion patterns.
 
 ## Goals
 - Develop a medical-device style design concept
